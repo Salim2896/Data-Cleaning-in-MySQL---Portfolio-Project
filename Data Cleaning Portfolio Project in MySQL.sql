@@ -170,25 +170,5 @@ drop column row_num;
 select *
 from layoffs_staging2;
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+-- End Of Data Cleaning , time to move to Exploratory Data Analysis full project .
 
